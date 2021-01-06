@@ -1,0 +1,189 @@
+{
+    "img": [
+        {
+            "id": 1,
+            "path": "assets/img/product01.png"
+        },
+        {
+            "id": 2,
+            "path": "assets/img/product03.png"
+        },
+        {
+            "id": 3,
+            "path": "assets/img/product06.png"
+        },
+        {
+            "id": 4,
+            "path": "assets/img/product08.png"
+        }
+    ],
+    "title": "producto",
+    "price": 980.00,
+    "price_old": 990.00,
+    "in_stock": true,
+    "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+    "has_review": {
+        "visible": true,
+        "count": 10,
+        "link": "www.google.com"
+    },
+    "tags": [
+        {
+            "id": 1,
+            "title": "Descuento"
+        },
+        {
+            "id": 2,
+            "title": "Ofertas"
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "title": "Computacion"
+        },
+        {
+            "id": 2,
+            "title": "Laptops"
+        }
+    ],
+    "specs": {
+        "visible": true,
+        "title": "Especificaciones",
+        "data": [
+            {
+                "id": 1,
+                "title": "ssd",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "value": 10
+            },
+            {
+                "id": 2,
+                "title": "ram",
+                "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "value": 100
+            }
+        ]
+    },
+    "details": {
+        "visible": true,
+        "title": "Detalles",
+        "data": ""
+    },
+    "reviews": {
+        "visible": true,
+        "title": "Opiniones",
+        "average_mark": 5,
+        "qualifications": [
+            {
+                "stars": 5,
+                "count": 10
+            },
+            {
+                "stars": 4,
+                "count": 5
+            },
+            {
+                "stars": 3,
+                "count": 0
+            },
+            {
+                "stars": 2,
+                "count": 1
+            },
+            {
+                "stars": 1,
+                "count": 7
+            }
+        ],
+        "data": [
+            {
+                "user_id": 1,
+                "alias": "Adrian Ugas",
+                "date": "2020-08-07",
+                "rate": 3,
+                "comment": ""
+            },
+            {
+                "user_id": 2,
+                "alias": "Fernando Lozada",
+                "date": "2020-08-07",
+                "rate": 5,
+                "comment": ""
+            },
+            {
+                "user_id": 1,
+                "alias": "Dimas Gomez",
+                "date": "2020-08-05",
+                "rate": 5,
+                "comment": ""
+            }
+        ] 
+    },
+    "related": [
+        {
+            "id": "p1",
+            "img": "assets/img/product01.png",
+            "discount":{
+                "visible":false,
+                "percent":-30
+            },
+            "new":false,
+            "category": {
+                "id": "c1",
+                "title": "ROPA"
+            },
+            "title": "Laptop",
+            "price": 700.00,
+            "old_price": 1000.00
+        },
+        {
+            "id": "p2",
+            "img": "assets//img/product02.png",
+            "discount":{
+                "visible":false,
+                "percent":-30
+            },
+            "new":false,
+            "category": {
+                "id": "c1",
+                "title": "ROPA"
+            },
+            "title": "product name",
+            "price": 900.00,
+            "old_price": 1000.00
+        },
+        {
+            "id": "p3",
+            "img": "assets//img/product03.png",
+            "discount":{
+                "visible":false,
+                "percent":-30
+            },
+            "new":false,
+            "category": {
+                "id": "c1",
+                "title": "ROPA"
+            },
+            "title": "product name",
+            "price": 700.00,
+            "old_price": 1000.00
+        },
+        {
+            "id": "p4",
+            "img": "assets/img/product04.png",
+            "discount":{
+                "visible":false,
+                "percent":-30
+            },
+            "new":false,
+            "category": {
+                "id": "c1",
+                "title": "ROPA"
+            },
+            "title": "Laptop",
+            "price": 700.00,
+            "old_price": 1000.00
+        }
+    ]
+}

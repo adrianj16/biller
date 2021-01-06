@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "img": "assets/img/shop01.png",
+        "title": "Laptop",
+        "subtitle": "Collection",
+        "action": {
+            "link":"",
+            "label": "Shop now"
+        }
+    },
+    {
+        "id": "2",
+        "img": "assets/img/shop02.png",
+        "title": "Accessories",
+        "subtitle": "Collection",
+        "action": {
+            "link":"",
+            "label": "Shop now"
+        }
+    },
+    {
+        "id": "3",
+        "img": "assets/img/shop03.png",
+        "title": "Cameras",
+        "subtitle": "Collection",
+        "action": {
+            "link":"",
+            "label": "Shop now"
+        }
+    }
+]

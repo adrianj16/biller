@@ -1,0 +1,146 @@
+[
+    {
+        "id": "p1",
+        "img": "assets/img/product01.png",
+        "discount":{
+            "visible":false,
+            "percent":-30
+        },
+        "new":false,
+        "category": {
+            "id": "c1",
+            "title": "ROPA"
+        },
+        "title": "Laptop",
+        "price": 700.00,
+        "old_price": 1000.00
+    },
+    {
+        "id": "p2",
+        "img": "assets//img/product02.png",
+        "discount":{
+            "visible":false,
+            "percent":-30
+        },
+        "new":false,
+        "category": {
+            "id": "c1",
+            "title": "ROPA"
+        },
+        "title": "product name",
+        "price": 900.00,
+        "old_price": 1000.00
+    },
+    {
+        "id": "p3",
+        "img": "assets//img/product03.png",
+        "discount":{
+            "visible":false,
+            "percent":-30
+        },
+        "new":false,
+        "category": {
+            "id": "c1",
+            "title": "ROPA"
+        },
+        "title": "product name",
+        "price": 700.00,
+        "old_price": 1000.00
+    },
+    {
+        "id": "p1",
+        "img": "assets/img/product01.png",
+        "discount":{
+            "visible":false,
+            "percent":-30
+        },
+        "new":false,
+        "category": {
+            "id": "c1",
+            "title": "ROPA"
+        },
+        "title": "Laptop",
+        "price": 700.00,
+        "old_price": 1000.00
+    },
+    {
+        "id": "p2",
+        "img": "assets//img/product02.png",
+        "discount":{
+            "visible":false,
+            "percent":-30
+        },
+        "new":false,
+        "category": {
+            "id": "c1",
+            "title": "ROPA"
+        },
+        "title": "product name",
+        "price": 900.00,
+        "old_price": 1000.00
+    },
+    {
+        "id": "p3",
+        "img": "assets//img/product03.png",
+        "discount":{
+            "visible":false,
+            "percent":-30
+        },
+        "new":false,
+        "category": {
+            "id": "c1",
+            "title": "ROPA"
+        },
+        "title": "product name",
+        "price": 700.00,
+        "old_price": 1000.00
+    },
+    {
+        "id": "p1",
+        "img": "assets/img/product01.png",
+        "discount":{
+            "visible":false,
+            "percent":-30
+        },
+        "new":false,
+        "category": {
+            "id": "c1",
+            "title": "ROPA"
+        },
+        "title": "Laptop",
+        "price": 700.00,
+        "old_price": 1000.00
+    },
+    {
+        "id": "p2",
+        "img": "assets//img/product02.png",
+        "discount":{
+            "visible":false,
+            "percent":-30
+        },
+        "new":false,
+        "category": {
+            "id": "c1",
+            "title": "ROPA"
+        },
+        "title": "product name",
+        "price": 900.00,
+        "old_price": 1000.00
+    },
+    {
+        "id": "p3",
+        "img": "assets//img/product03.png",
+        "discount":{
+            "visible":false,
+            "percent":-30
+        },
+        "new":false,
+        "category": {
+            "id": "c1",
+            "title": "ROPA"
+        },
+        "title": "product name",
+        "price": 700.00,
+        "old_price": 1000.00
+    }
+]
