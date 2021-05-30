@@ -281,7 +281,7 @@ class Product extends Component {
 						</div>
 					</div>
 				</div>
-				<RelatedProducts data={} />
+				{/* <RelatedProducts data={} /> */}
 			</div>
 		);
 	}

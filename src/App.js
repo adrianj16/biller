@@ -3,7 +3,7 @@ import Header from './components/shared/Header';
 import Navigation from './components/shared/Navigation';
 import Footer from './components/shared/Footer';
 import Newsletter from './components/shared/Newsletter';
-import Product from './components/product/Product';
+import Home from './components/home/Home';
 
 class App extends Component {
   render() {
@@ -11,7 +11,7 @@ class App extends Component {
       <div>
         <Header />
         <Navigation />
-        <Product/>
+        <Home/>
         <Newsletter />
         <Footer />
       </div>
